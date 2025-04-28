@@ -66,7 +66,7 @@ const PAGES_LINKING = {
     },
     {
       x: 94,
-      y: 55,
+      y: 58,
       title: "Interactivity",
       icon: "img/icons/interactivites.gif",
       link: "resources/interactivities/true-false/chap_2_q_4.html",
