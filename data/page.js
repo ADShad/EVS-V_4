@@ -12,7 +12,7 @@ const PAGES_LINKING = {
   //   },
   // ],
 
-  5: [
+  6: [
     {
       x: 94,
       y: 4,
@@ -23,7 +23,7 @@ const PAGES_LINKING = {
       size: "1024x700",
     },
   ],
-  6: [
+  7: [
     {
       x: 94,
       y: 4,
@@ -43,7 +43,7 @@ const PAGES_LINKING = {
       size: "1024x700",
     },
   ],
-  8: [
+  9: [
     {
       x: 94,
       y: 47,
@@ -54,7 +54,7 @@ const PAGES_LINKING = {
       size: "1024x700",
     },
   ],
-  9: [
+  10: [
     {
       x: 94,
       y: 3,

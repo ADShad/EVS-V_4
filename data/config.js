@@ -8,7 +8,7 @@ const appdb = {
     bookWidth: 1259,
     bookHeight: 1646,
     prePages: [
-      // { pageUrl: "EVS-V_4_page-0001.jpg", pageName: "Cover" },
+      { pageUrl: "cover.jpg", pageName: "Cover" },
       // { pageUrl: "EVS-V_4_page-0002.jpg", pageName: "Blank" },
       // { pageUrl: "EVS-V_4_page-0003.jpg", pageName: "Blank" },
       // { pageUrl: "EVS-V_4_page-0004.jpg", pageName: "Blank" },
@@ -71,43 +71,43 @@ const appdb = {
         },
         {
           page: 57,
-          title:"13. A Shelter So High"
+          title: "13. A Shelter So High",
         },
         {
           page: 61,
-          title:"14. When the Earth Shook!"
+          title: "14. When the Earth Shook!",
         },
         {
           page: 65,
-          title:"15. Blow Hot, Blow Cold"
+          title: "15. Blow Hot, Blow Cold",
         },
         {
           page: 70,
-          title:"16. Who will do this Work?"
+          title: "16. Who will do this Work?",
         },
         {
           page: 73,
-          title:"17. Across the wall"
+          title: "17. Across the wall",
         },
         {
           page: 78,
-          title:"18. No Place for Us?"
+          title: "18. No Place for Us?",
         },
         {
           page: 82,
-          title:"19. A Seed tells a Farmer's Story"
+          title: "19. A Seed tells a Farmer's Story",
         },
         {
           page: 86,
-          title:"20. Whose Forests?"
+          title: "20. Whose Forests?",
         },
         {
           page: 91,
-          title:"21. Like Father, Like Daughter"
+          title: "21. Like Father, Like Daughter",
         },
         {
           page: 93,
-          title:"22. On the Move Again"
+          title: "22. On the Move Again",
         },
       ],
     },
@@ -209,46 +209,40 @@ const appdb = {
       link: "iframe",
       data: [
         {
-          path: "resources/interactivities/tf/chap_1_tf_1.html",
+          path: "resources/interactivities/fib/chap_1_q_5.html",
           title: "Chapter 1, Activity A",
           size: "1024x700",
-          page: 3,
-        },
-        {
-          path: "resources/interactivities/fib/chap_1_fib_2.html",
-          title: "Chapter 1, Activity B",
-          size: "1024x650",
-          page: 3,
-        },
-        {
-          path: "resources/interactivities/mcq/chap_1_mcq_3.html",
-          title: "Chapter 1, Activity C",
-          size: "1024x800",
-          page: 4,
-        },
-        {
-          path: "resources/interactivities/fib/chap_1_fib_4.html",
-          title: "Chapter 1, Activity D",
-          size: "1024x600",
-          page: 4,
-        },
-        {
-          path: "resources/interactivities/fib/chap_1_fib_5.html",
-          title: "Chapter 1, Activity E",
-          size: "1024x750",
-          page: 5,
-        },
-        {
-          path: "resources/interactivities/tf/chap_1_tf_6.html",
-          title: "Chapter 1, Activity F",
-          size: "1024x1000",
           page: 6,
         },
         {
-          path: "resources/interactivities/fib/chap_1_fib_7.html",
-          title: "Chapter 1, Activity G",
-          size: "1024x750",
+          path: "resources/interactivities/fib/chap_1_q_7.html",
+          title: "Chapter 1, Activity B",
+          size: "1024x650",
           page: 7,
+        },
+        {
+          path: "resources/interactivities/fib/chap_1_q_8.html",
+          title: "Chapter 1, Activity C",
+          size: "1024x800",
+          page: 7,
+        },
+        {
+          path: "resources/interactivities/fib/chap_2_q_1.html",
+          title: "Chapter 1, Activity D",
+          size: "1024x600",
+          page: 9,
+        },
+        {
+          path: "resources/interactivities/true-false/chap_2_q_3.html",
+          title: "Chapter 1, Activity E",
+          size: "1024x750",
+          page: 10,
+        },
+        {
+          path: "resources/interactivities/true-false/chap_2_q_4.html",
+          title: "Chapter 1, Activity F",
+          size: "1024x1000",
+          page: 10,
         },
       ],
     },
