@@ -74,4 +74,47 @@ const PAGES_LINKING = {
       size: "1024x700",
     },
   ],
+  15: [
+    // {
+    //   x: 94,
+    //   y: 4,
+    //   title: "Interactivity",
+    //   icon: "img/icons/interactivites.gif",
+    //   link: "resources/interactivities/true-false/chap_3_q_9.html", put mcq here
+    //   type: "iframe",
+    //   size: "1024x700",
+
+    // }
+    {
+      x: 94,
+      y: 78,
+      title: "Interactivity",
+      icon: "img/icons/interactivites.gif",
+      link: "resources/interactivities/fib/chap_3_q_14.html",
+      type: "iframe",
+      size: "1024x700",
+    },
+  ],
+  19: [
+    {
+      x: 94,
+      y: 22,
+      title: "Interactivity",
+      icon: "img/icons/interactivites.gif",
+      link: "resources/interactivities/fib/chap_4_q_2.html",
+      type: "iframe",
+      size: "1024x700",
+    },
+  ],
+  32: [
+    {
+      x: 94,
+      y: 4,
+      title: "Interactivity",
+      icon: "img/icons/interactivites.gif",
+      link: "resources/interactivities/fib/chap_7_q_6.html",
+      type: "iframe",
+      size: "1024x700",
+    },
+  ],
 };
