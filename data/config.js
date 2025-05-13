@@ -203,49 +203,49 @@ const appdb = {
 
     //   ],
     // },
-    "Interactivities.": {
-      icon: "fa-users",
-      menu: "Activities",
-      link: "iframe",
-      data: [
-        {
-          path: "resources/interactivities/fib/chap_1_q_5.html",
-          title: "Chapter 1, Activity A",
-          size: "1024x700",
-          page: 6,
-        },
-        {
-          path: "resources/interactivities/fib/chap_1_q_7.html",
-          title: "Chapter 1, Activity B",
-          size: "1024x650",
-          page: 7,
-        },
-        {
-          path: "resources/interactivities/fib/chap_1_q_8.html",
-          title: "Chapter 1, Activity C",
-          size: "1024x800",
-          page: 7,
-        },
-        {
-          path: "resources/interactivities/fib/chap_2_q_1.html",
-          title: "Chapter 1, Activity D",
-          size: "1024x600",
-          page: 9,
-        },
-        {
-          path: "resources/interactivities/true-false/chap_2_q_3.html",
-          title: "Chapter 1, Activity E",
-          size: "1024x750",
-          page: 10,
-        },
-        {
-          path: "resources/interactivities/true-false/chap_2_q_4.html",
-          title: "Chapter 1, Activity F",
-          size: "1024x1000",
-          page: 10,
-        },
-      ],
-    },
+    // "Interactivities.": {
+    //   icon: "fa-users",
+    //   menu: "Activities",
+    //   link: "iframe",
+    //   data: [
+    //     {
+    //       path: "resources/interactivities/fib/chap_1_q_5.html",
+    //       title: "Chapter 1, Activity A",
+    //       size: "1024x700",
+    //       page: 6,
+    //     },
+    //     {
+    //       path: "resources/interactivities/fib/chap_1_q_7.html",
+    //       title: "Chapter 1, Activity B",
+    //       size: "1024x650",
+    //       page: 7,
+    //     },
+    //     {
+    //       path: "resources/interactivities/fib/chap_1_q_8.html",
+    //       title: "Chapter 1, Activity C",
+    //       size: "1024x800",
+    //       page: 7,
+    //     },
+    //     {
+    //       path: "resources/interactivities/fib/chap_2_q_1.html",
+    //       title: "Chapter 1, Activity D",
+    //       size: "1024x600",
+    //       page: 9,
+    //     },
+    //     {
+    //       path: "resources/interactivities/true-false/chap_2_q_3.html",
+    //       title: "Chapter 1, Activity E",
+    //       size: "1024x750",
+    //       page: 10,
+    //     },
+    //     {
+    //       path: "resources/interactivities/true-false/chap_2_q_4.html",
+    //       title: "Chapter 1, Activity F",
+    //       size: "1024x1000",
+    //       page: 10,
+    //     },
+    //   ],
+    // },
     // "Games.": {
     //   icon: "fa-users",
     //   menu: "Games",
